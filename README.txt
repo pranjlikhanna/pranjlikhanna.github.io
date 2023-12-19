@@ -1,6 +1,6 @@
-Pranjli Khanna
+##Pranjli Khanna
 
-This is tehe code for my personal portfolio
+This is the code for my personal portfolio
 
 Some images are private while others are demo images* courtesy of Unsplash
 
