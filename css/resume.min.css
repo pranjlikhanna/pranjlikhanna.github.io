@@ -1,0 +1,274 @@
+/*!
+ * Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ */
+
+ /*!
+ * Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ */
+body {
+    font-family: 'Open Sans', serif;
+    padding-top: 54px;
+    color: #000000;
+  }
+  
+  @media (min-width: 992px) {
+    body {
+      padding-top: 0;
+      padding-left: 17rem;
+    }
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #150872; 
+  }
+  
+  h1 {
+    font-size: 6rem;
+    line-height: 5.5rem;
+  }
+  
+  h2 {
+    font-size: 3.5rem;
+  }
+  
+  .subheading {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: 'Open Sans', serif;
+    font-size: 1.35rem;
+    color: #170f57; 
+  }
+  
+  .list-social-icons a {
+    color: #d67a96; /* Subdued pink for icons */
+  }
+  
+  .list-social-icons a:hover {
+    color: #bf5f82; /* Brighter pink for hover */
+  }
+  
+  .list-social-icons a .fa-lg {
+    font-size: 1.75rem;
+  }
+  
+  .list-icons {
+    font-size: 3rem;
+  }
+  
+  .list-icons .list-inline-item i:hover {
+    color: #bf5f82; /* Brighter pink for hover */
+  }
+  
+  #sideNav .navbar-nav .nav-item .nav-link {
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #f1caee; 
+  }
+  
+  @media (min-width: 992px) {
+    #sideNav {
+      text-align: center;
+      position: fixed;
+      top: 0;
+      left: 0;
+      display: flex;
+      flex-direction: column;
+      width: 17rem;
+      height: 100vh;
+    }
+  
+    #sideNav .navbar-brand {
+      display: flex;
+      margin: auto auto 0;
+      padding: .5rem;
+    }
+  
+    #sideNav .navbar-brand .img-profile {
+      max-width: 10rem;
+      max-height: 10rem;
+      border: .5rem solid rgba(255, 182, 193, .2); /* Light pink border */
+    }
+  
+    #sideNav .navbar-collapse {
+      display: flex;
+      align-items: flex-start;
+      flex-grow: 0;
+      width: 100%;
+      margin-bottom: auto;
+    }
+  
+    #sideNav .navbar-collapse .navbar-nav {
+      flex-direction: column;
+      width: 100%;
+    }
+  
+    #sideNav .navbar-collapse .navbar-nav .nav-item {
+      display: block;
+    }
+  
+    #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
+      display: block;
+    }
+  }
+  
+  section.resume-section {
+    border-bottom: 1px solid #21106a; /* Pink border for sections */
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+  }
+  
+  section.resume-section .resume-item .resume-date {
+    min-width: none;
+  }
+  
+  @media (min-width: 768px) {
+    section.resume-section {
+      min-height: 100vh;
+    }
+  
+    section.resume-section .resume-item .resume-date {
+      min-width: 18rem;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    section.resume-section {
+      padding-top: 3rem !important;
+      padding-bottom: 3rem !important;
+    }
+  }
+  
+  .bg-primary {
+    background-color: #07003e !important; /* Soft pink background */
+  }
+  
+  .text-primary {
+    color: #eaa4c1 !important; /* Bright pink text */
+  }
+  
+  a {
+    color: #d67a96; /* Subdued pink for links */
+  }
+  
+  a:active, a:focus, a:hover {
+    color: #f7bddb; /* Light pink for link hover */
+  }
+  
+  .skills-section {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+  }
+  
+  .skill-tile {
+    padding: 0.5rem 1rem;
+    margin: 0.25rem;
+    background-color: #eaa4c1; /* Soft pink background for skill tiles */
+    color: #fff; /* White text for contrast */
+    border-radius: 4px; /* Rounded corners for skill tiles */
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  
+  .project-spacing {
+    margin-bottom: 3rem; /* Space after each project */
+  }
+  
+
+  .skills-category {
+    margin-bottom: 2rem; /* Adds space between categories */
+  }
+  
+  .subheading {
+    color: #6c757d; /* Subdued color for subheadings */
+    margin-bottom: 1rem;
+  }
+  
+  .skills-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem; /* Adds space between items */
+  }
+  
+  .skills-list li {
+    background-color: #d2dee9; /* Soft background color for each skill */
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    font-size: 0.85rem; /* Smaller font size */
+  }
+  
+  .connect-with-me {
+    background-color: #f3b5ca; /* Adjust the color to match your design */
+    padding: 40px; /* Add padding around the section */
+}
+
+.connect-heading {
+    font-size: 2.5rem; /* Increase the size of the heading */
+    color: #ad1457; /* Adjust the color to match your design */
+    margin-bottom: 20px; /* Add space below the heading */
+}
+
+.connect-text {
+    font-size: 1.25rem; /* Adjust the size of the text */
+    color: #000000; /* Adjust the color for readability */
+    margin-bottom: 30px; /* Add space below the text */
+}
+
+.email-box {
+    background-color: #fbeff8; /* Light background for the email */
+    padding: 15px 25px; /* Padding inside the email box */
+    border-radius: 25px; /* Rounded corners for the email box */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add a shadow for depth */
+}
+
+.email-link {
+    font-size: 1.5rem; /* Increase the size of the email link */
+    color: #ad1457; /* Adjust the color to match your design */
+    text-decoration: none; /* Remove the underline from the link */
+}
+
+/* Adjustments for alignment */
+.container {
+    max-width: 1200px; /* Set a max-width for the container if desired */
+    margin: 0 auto; /* Center the container */
+    padding-left: 15px; /* Add some padding on the left */
+}
+
+/* Align text to the left */
+.connect-heading, .connect-text, .email-box {
+    text-align: left;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    .connect-heading {
+        font-size: 2rem;
+    }
+    
+    .connect-text {
+        font-size: 1rem;
+    }
+    
+    .email-box {
+        padding: 10px 20px;
+    }
+    
+    .email-link {
+        font-size: 1.25rem;
+    }
+    
+    /* Adjust the container padding for small screens */
+    .container {
+        padding-left: 15px;
+    }
+}
