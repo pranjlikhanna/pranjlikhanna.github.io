@@ -1,0 +1,87 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Pranjli Khanna
+    - name: Personal Pronoun
+      value: She/her/hers
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor of Science
+      institution: University of California, San Diego
+      year: 2021-now
+      description: Cognitive Science specializing in Machine 
+        Learning and Neural Computation
+    - title: Machine Learning Certification
+      institution: Stanford University
+      year: 2020
+    - title: High School
+      institution: Welham Girls' School, Dehradun
+      year: 2013 - 2021
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Undergraduate Writing Consultant
+      institution: Teaching & Learning Commons, UC San Diego
+      year: Sept 2022 - now
+      description:
+        - Conducted over 100 individualized sessions to enhance students' writing and critical-thinking skills, and created structured technical documentation to simplify complex concepts.
+
+    - title: Full-stack Sofftware Engineering Intern
+      institution: Marble Collective, Remote
+      year: Jun 2023 - Sept 2023
+      description:
+        - Led full-stack development of an innovative social media platform, translating user feedback into a 45% surge in engagement through front-end refinements and back-end optimizations.
+
+    - title: Machine Learning Engineer
+      institution: Aceves Lab, San Diego
+      year: Jan 2023 - Oct 2023
+      description: Developed a machine learning framework to decode cell signaling in Eosinophilic Esophagitis, revealing fibroblasts' key role and setting a reproducibility standard for future biomedical research.
+
+    - title: Software Engineer Intern
+      institution: Square Corporation
+      year: Jun 2020 - July 2020
+      description: Led a successful overhaul of inventory software, enhancing efficiency by 45%, and crafted business intelligence dashboards that elevated inventory management strategies.
+
+- title: Technical Skills
+  type: nested_list 
+  contents:
+    - title: Programming Languages
+      items: 
+        - Python 
+        - Java 
+        - TypeScript 
+        - R
+        - HTML
+        - SQL
+    - title: Programming Packages
+      items:
+        - <a href="https://scikit-learn.org/stable/"> scikit learn <a/>
+        - <a href="https://pytorch.org">PyTorch<a/>
+        - <a href="https://d3js.org">d3.js<a/>
+        - <a href="https://matplotlib.org">matplotlib<a/>
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020
+      items:
+        - AP Scholar with Honor Award
+    - year: 2021 - 2022
+      items:
+        - Provost Honors
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Running, Cooking, Yoga, Reading
