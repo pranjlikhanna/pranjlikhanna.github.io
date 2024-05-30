@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My academic journey is soon to culminate with a Bachelor's of Science, specializing in Machine Learning and Neural Computation. My journey has been a quest for knowledge, where I've mastered programming languages and delved deep into the world of statistics and data analysis. The magic happens when I design and fine-tune machine learning models on diverse datasets.
+My academic journey is soon to culminate with a Bachelor's of Science in Cognitive Science, specializing in Machine Learning and Neural Computation. My journey has been a quest for knowledge, where I've mastered programming languages and delved deep into the world of statistics and data analysis. The magic happens when I design and fine-tune machine learning models on diverse datasets.
 
 Beyond the screen, you'll find me either conquering marathons, immersed in captivating books, or experimenting with culinary delights. I see each day as an opportunity to learn, create, and make a positive impact on the world through technology.
 
