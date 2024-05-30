@@ -6,7 +6,7 @@ subtitle: Software Engineering | Machine Learning
 
 profile:
   align: right
-  image: pranjli.jpeg
+  image: profileimage.jpeg
   image_circular: true # crops the image to make it circular
   address: >
     <p>San Diego, California</p>
