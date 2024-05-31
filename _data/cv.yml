@@ -24,6 +24,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Data Science Intern
+      institution: Carnegie Learning
+      year: Jun 2024 - Aug 2024
+
     - title: Undergraduate Writing Consultant
       institution: Teaching & Learning Commons, UC San Diego
       year: Sept 2022 - now
@@ -45,6 +49,28 @@
       institution: Square Corporation
       year: Jun 2020 - July 2020
       description: Led a successful overhaul of inventory software, enhancing efficiency by 45%, and crafted business intelligence dashboards that elevated inventory management strategies.
+
+- title: Certifications
+  type: time_table
+  contents:
+    - title: Mathematics for Machine Learning and Data Science Specialization
+      institution: DeepLearning.AI
+      year: 2023
+    - title: Intermediate SQL
+      institution: DataCamp
+      year: 2023
+    - title: Joining Data in SQL
+      institution: DataCamp
+      year: 2023
+    - title: Applied Machine Learning in Python
+      institution: University of Michigan
+      year: 2022
+    - title: Machine Learning Certification
+      institution: Stanford University
+      year: 2020
+    - title: Philosophy and the Sciences - Introduction to the Philosophy of Cognitive Science - Coursera
+      institution: The University of Edinburgh
+      year: 2020
 
 - title: Technical Skills
   type: nested_list 
