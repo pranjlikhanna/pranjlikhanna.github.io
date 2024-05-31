@@ -97,12 +97,19 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - Provost Honors
+    - year: 2022
+      items:
+        - Provost Honors
+    - year: 2021
+      items:
+        - Provost Honors
     - year: 2020
       items:
         - AP Scholar with Honor Award
-    - year: 2021 - 2022
-      items:
-        - Provost Honors
+        - Gold Standard - International Award for Young People
 
 - title: Other Interests
   type: list
