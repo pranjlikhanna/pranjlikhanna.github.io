@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineering | Machine Learning
+subtitle: Cognitive Science | Machine Learning | Data Science
 
 profile:
   align: right
