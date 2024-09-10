@@ -3,7 +3,7 @@ layout: page
 title: Social media sentiment analysis
 description: Discussion Material for DSC 30
 img: assets/img/social.jpg
-importance: 3
+importance: 6
 category: academic
 ---
 
