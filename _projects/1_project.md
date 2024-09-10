@@ -3,7 +3,7 @@ layout: page
 title: Sentiment Analysis and Movie Recommendation System Using Machine Learning
 description: This project focused on developing an advanced machine learning model for sentiment analysis and movie recommendations by processing a dataset of over 10,000 IMDB movie reviews. The primary goal was to enhance the accuracy and relevance of the system's recommendations while improving the precision of sentiment classification.
 img: assets/img/movie.jpg
-importance: 1
+importance: 2
 category: academic
 ---
 
