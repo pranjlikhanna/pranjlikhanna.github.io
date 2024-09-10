@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Movie recommendation system
-description: Using deep reinforcement learning to understand animal behaviors
+title: Sentiment Analysis and Movie Recommendation System Using Machine Learning
+description: This project focused on developing an advanced machine learning model for sentiment analysis and movie recommendations by processing a dataset of over 10,000 IMDB movie reviews. The primary goal was to enhance the accuracy and relevance of the system's recommendations while improving the precision of sentiment classification.
 img: assets/img/movie.jpg
 importance: 1
 category: academic
 ---
-
-## Overview
-This project focused on developing an advanced machine learning model for sentiment analysis and movie recommendations by processing a dataset of over 10,000 IMDB movie reviews. The primary goal was to enhance the accuracy and relevance of the system's recommendations while improving the precision of sentiment classification.
 
 ## Problem Statement
 Sentiment analysis is crucial for understanding user feedback and improving recommendation systems. Traditional models often struggle with processing large-scale textual data efficiently, leading to slow and sometimes inaccurate recommendations. This project aimed to develop a more precise, efficient model to process and categorize IMDB reviews, ensuring quicker and more relevant movie recommendations.
