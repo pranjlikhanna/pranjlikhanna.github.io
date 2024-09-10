@@ -2,7 +2,7 @@
 layout: page
 title: What Affects Glassdoor Company Ratings?
 description: An Analysis of Data Scientist Job Postings' Tone and Other Potential Factors
-img: assets/img/zillow.jpg
+img: assets/img/glassdoor.jpg
 importance: 2
 category: academic
 ---
