@@ -16,11 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My academic journey is soon to culminate with a Bachelor's of Science in Cognitive Science, with a specialization in Machine Learning and Neural Computation, from [UC San Diego](https://ucsd.edu/). My journey has been a quest for knowledge, where I've mastered programming languages and delved deep into the world of statistics and data analysis. The magic happens when I design and fine-tune machine learning models on diverse datasets.
+I recently graduated with a Bachelor of Science in Cognitive Science, specializing in Machine Learning and Neural Computation, from [UC San Diego](https://ucsd.edu/). My academic journey has been a relentless pursuit of knowledge, where I've honed my programming expertise and deepened my understanding of statistics, data analysis, and machine learning. I thrive on the challenge of designing, training, and optimizing machine learning models across a variety of datasets.
 
-Beyond the screen, you'll find me either conquering marathons, immersed in captivating books, or experimenting with culinary delights. I see each day as an opportunity to learn, create, and make a positive impact on the world through technology.
+Beyond the screen, you might find me tackling marathons, lost in a captivating book, or experimenting with new culinary creations. I approach each day as a new opportunity to learn, innovate, and create a meaningful impact through technology.
 
-As I stride towards graduation, my focus is on applying my skills and knowledge to real-world challenges. Whether it's diving into the intricacies of backend development or harnessing the power of AI, I'm ready to embrace the future with open arms. So, let's connect, collaborate, and embark on a journey of exploration and innovation together.
+With my degree now in hand, I’m eager to apply my skills to real-world challenges. Whether it’s developing cutting-edge AI solutions, exploring backend systems, or leveraging data science to make informed decisions, I’m ready to dive in and contribute. Let’s connect, collaborate, and explore the possibilities together.
 
-If you wish to know me more, feel free to contact me in any of the following methods down the page.
+Feel free to reach out through the contact methods listed below.
 
