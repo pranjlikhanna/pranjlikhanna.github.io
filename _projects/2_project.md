@@ -1,12 +1,24 @@
 ---
 layout: page
-title: Zestimate
-description: Using machine learning algorithms to predict the value of homes from zillow's dataset
+title: Zestimate — Housing Price Prediction
+description: Machine learning model predicting home values using Zillow-like datasets with advanced feature engineering.
 img: assets/img/zillow.jpg
-importance: 2
+importance: 8
 category: academic
 ---
 
-# Project Description
+## Overview
+This project focused on predicting home sale prices using a large real-estate dataset inspired by Zillow. By combining **exploratory data analysis, feature engineering, and regression models**, I built a predictive pipeline that significantly improved on baseline estimates.  
 
-Leveraging Zillow's extensive dataset, I crafted a predictive model for future home sale prices through in-depth exploratory data analysis and innovative feature engineering. Employing a Random Forest Regressor, the model achieved a notable reduction in margin of error over baseline models, enhancing the precision of home value estimates. I streamlined data handling by automating pre-processing pipelines using Pandas and Scikit-Learn, which not only facilitated efficient data manipulation but also optimized model training and evaluation. The model's predictive accuracy was further refined through meticulous hyperparameter tuning and the application of advanced regression techniques, ensuring robustness and reliability in its predictive capabilities.
+## Approach
+- **Exploratory Data Analysis** to identify key housing features influencing price.  
+- **Feature Engineering** to capture location, square footage, and derived metrics.  
+- **Random Forest Regressor** for robust non-linear modeling.  
+- **Preprocessing Pipelines** automated with Pandas & Scikit-learn.  
+- **Hyperparameter Tuning** for model accuracy.  
+
+## Results
+- Reduced margin of error compared to baseline pricing models.  
+- Automated preprocessing pipeline improved reproducibility and training efficiency.  
+
+**Skills demonstrated**: regression modeling, feature engineering, pipeline automation, hyperparameter tuning.

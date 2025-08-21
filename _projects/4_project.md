@@ -1,12 +1,23 @@
 ---
 layout: page
-title: API development for third party integration
-description: Designed RESTful APIs using Node.js to enable third-party integrations with a mock logistics platform
-img: assets/img/api.jpg
-importance: 4
+title: Sentiment Analysis & Movie Recommendation
+description: Combined sentiment analysis with clustering for more relevant movie recommendations using IMDB reviews.
+img: assets/img/movie.jpg
+importance: 6
 category: academic
 ---
 
-# Project Description
+## Overview
+Developed an NLP-driven system that processes **10,000+ IMDB reviews** to classify sentiment and improve recommendation quality. By combining traditional text processing with clustering, the system produced more personalized movie suggestions.  
 
-Architected and deployed RESTful APIs using Node.js for a simulated logistics platform, focusing on secure and scalable third-party integrations. These APIs, hosted on AWS, are fortified with best practices like load balancing and auto-scaling to manage fluctuating traffic, backed by thorough unit and end-to-end testing to guarantee their robustness and reliability.
+## Approach
+- **TF-IDF Vectorization** to convert text into features.  
+- **K-Means Clustering** to group reviews by sentiment patterns.  
+- **PCA** for dimensionality reduction and faster runtime.  
+- **Hyperparameter Tuning** for accuracy optimization.  
+
+## Results
+- Improved **sentiment classification precision** and reduced runtime by 50%.  
+- Recommendations better aligned with user preferences.  
+
+**Skills demonstrated**: NLP (TF-IDF), clustering, dimensionality reduction, model tuning.

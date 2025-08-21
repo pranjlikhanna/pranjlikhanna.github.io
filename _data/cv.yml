@@ -6,6 +6,41 @@
     - name: Personal Pronouns
       value: She/her/hers
 
+- title: Experience
+  type: time_table
+  contents:
+
+    - title: Data Scientist
+      institution: Carnegie Learning
+      year: Oct 2024 – Present
+
+    - title: Data Science Intern
+      institution: Carnegie Learning
+      year: Jun 2024 - Oct 2024
+
+    - title: Undergraduate Writing Consultant
+      institution: Teaching & Learning Commons, UC San Diego
+      year: Sep 2022 - Jun 2024
+      description:
+        - Conducted over 100 individualized sessions to enhance students' writing and critical-thinking skills, and created structured technical documentation to simplify complex concepts.
+
+    - title: Sofftware Engineering Intern
+      institution: Marble Collective (early-stage startup)
+      year: Jun 2023 - Sep 2023
+      description:
+        - Led full-stack development of an innovative social media platform, translating user feedback into a 45% surge in engagement through front-end refinements and back-end optimizations.
+
+    - title: Machine Learning Engineer
+      institution: UC San Diego School of Medicine
+      year: Jan 2023 - Oct 2023
+      description: Developed a machine learning framework to decode cell signaling in Eosinophilic Esophagitis, revealing fibroblasts' key role and setting a reproducibility standard for future biomedical research.
+
+    - title: Software Engineer Intern
+      institution: Square Corporation
+      year: Jun 2020 - July 2020
+      description: Led a successful overhaul of inventory software, enhancing efficiency by 45%, and crafted business intelligence dashboards that elevated inventory management strategies.
+
+
 - title: Education
   type: time_table
   contents:
@@ -18,38 +53,12 @@
       institution: Welham Girls' School, Dehradun
       year: 2013 - 2021
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Data Science Intern
-      institution: Carnegie Learning
-      year: Jun 2024 - Present
-
-    - title: Undergraduate Writing Consultant
-      institution: Teaching & Learning Commons, UC San Diego
-      year: Sept 2022 - now
-      description:
-        - Conducted over 100 individualized sessions to enhance students' writing and critical-thinking skills, and created structured technical documentation to simplify complex concepts.
-
-    - title: Full-stack Sofftware Engineering Intern
-      institution: Marble Collective, Remote
-      year: Jun 2023 - Sept 2023
-      description:
-        - Led full-stack development of an innovative social media platform, translating user feedback into a 45% surge in engagement through front-end refinements and back-end optimizations.
-
-    - title: Machine Learning Engineer
-      institution: Aceves Lab, San Diego
-      year: Jan 2023 - Oct 2023
-      description: Developed a machine learning framework to decode cell signaling in Eosinophilic Esophagitis, revealing fibroblasts' key role and setting a reproducibility standard for future biomedical research.
-
-    - title: Software Engineer Intern
-      institution: Square Corporation
-      year: Jun 2020 - July 2020
-      description: Led a successful overhaul of inventory software, enhancing efficiency by 45%, and crafted business intelligence dashboards that elevated inventory management strategies.
-
 - title: Certifications
   type: time_table
   contents:
+    - title: Statistics with Python Specialization
+      institution: University of Michigan (Coursera)
+      year: 2024  
     - title: ChatGPT Prompt Engineering for Developers
       institution: DeepLearning.AI
       year: 2024
@@ -73,29 +82,20 @@
       year: 2020
 
 - title: Technical Skills
-  type: nested_list 
+  type: nested_list
   contents:
-    - title: Programming Languages
-      items: 
-        - Python 
-        - Java 
-        - TypeScript 
-        - R
-        - HTML
-        - SQL
-    - title: Programming Packages
+    - title: Programming
       items:
-        - <a href="https://scikit-learn.org/stable/"> scikit learn <a/>
-        - <a href="https://pytorch.org">PyTorch<a/>
-        - <a href="https://d3js.org">d3.js<a/>
-        - <a href="https://matplotlib.org">matplotlib<a/>
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Python, SQL, R, Java
+    - title: DS/ML Libraries
+      items:
+        - scikit-learn, PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn
+    - title: MLOps & Data
+      items:
+        - Git, Docker, PostgreSQL, MongoDB, Jupyter, Tableau
+    - title: AI/LLMs
+      items:
+        - Hugging Face Transformers, LangChain (prototyping)
 
 - title: Honors and Awards
   type: time_table
